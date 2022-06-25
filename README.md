@@ -6,7 +6,7 @@
 www.pasaronlen.com
 
 ## INDOddos IMG
-![alt text](https://github.com/INDOnimous/INDOclon/blob/master/IMG/Screenshot_2019-10-25-18-50-15-682_com.termux.png)
+![alt text](https://github.com/trhacknon/INDOclon/blob/master/IMG/Screenshot_2019-10-25-18-50-15-682_com.termux.png)
 
 > Also in&nbsp;
 > <a href="docs/ru-RU/README.md">🇷🇺</a>
@@ -27,7 +27,7 @@ pkg update && upgrade
 pkg install python2
 pkg install wget
 pkg install git
-git clone https://github.com/INDOnimous/INDOddos
+git clone https://github.com/trhacknon/INDOddos
 cd INDOddos
 python2 INDOattack.py
 ```
@@ -35,7 +35,7 @@ python2 INDOattack.py
 #### Buat kamu yang masih bingung cara penggunaan dan penginstalan nya, silahkan kaliam Tonton video panduan penggunaan di bawah ini. janhan lupa SUBSCRIBE CHANNEL nya, 
 
 # Video Cara DDOS Attack dengan Termux
-[![Watch the video](https://github.com/INDOnimous/INDOclon/blob/master/IMG/Screenshot_2019-11-01-20-03-26-158_com.google.android.youtube.png)](https://youtu.be/59a1emj_LqY)
+[![Watch the video](https://github.com/trhacknon/INDOclon/blob/master/IMG/Screenshot_2019-11-01-20-03-26-158_com.google.android.youtube.png)](https://youtu.be/59a1emj_LqY)
 
 ## Thank you for using this tools..
 
